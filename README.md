@@ -30,7 +30,7 @@ Execute the program using runserver command.
         </head>
         <body bgcolor="white" TEXT="black">
    <center>
-        <img src="saveetha logo.png"  height="100" width="1000" align="center" /> </center>
+        <img src="/static/images/saveetha logo.png"  height="100" width="1000" align="center" /> </center>
              
              <table border= "4" cellspacing="0px" cellpadding="10px" bgcolor="purple" align="center" >
              <CAPTION align=“top”> <b>SLOT TIME TABLE - RAMYA R(212223230169)</b> </CAPTION>
