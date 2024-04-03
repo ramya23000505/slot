@@ -26,7 +26,7 @@ Execute the program using runserver command.
 ## PROGRAM
   <html>
         <head>
-                 <title> web </title>
+                 <title> Web </title>
         </head>
         <body bgcolor="white" TEXT="black">
    <center>
