@@ -15,7 +15,6 @@ Create a simple table using ```<table>``` tag in html.
 
 ### STEP 4
 Add header row using ```<th>``` tag.
-
 ### STEP 5
 Add your timetable using ```<td>``` tag.
 
